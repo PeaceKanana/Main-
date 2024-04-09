@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dune</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">intentActivity</string>
+    <string name="title_activity_calc">CalcActivity</string>
+    <string name="title_activity_recycler">Recycler</string>
+    <string name="title_activity_simplelist">Simplelist</string>
+    <string name="title_activity_customlist">CustomlistActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+</resources>
